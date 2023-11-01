@@ -14,3 +14,4 @@ zip_obj = list(zip(list_1, list_2, list_3))
 # print(list(zip_obj))
 zip_final = [list(x_l) for x_l in zip_obj]
 print(zip_final)
+
